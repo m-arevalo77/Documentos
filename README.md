@@ -1,2 +1,2 @@
 # Documentos
-Sección para documentos
+Sección para documentos desarrollados pra la clase.
